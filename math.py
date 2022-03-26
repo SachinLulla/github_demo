@@ -8,7 +8,7 @@ def sub(x,y):
 
 # multiply fn implemented
 def mul(x,y):
-    pass
+    return  x*y     # change in RR 
 
 #divide fn implemented
 def div(x,y):
