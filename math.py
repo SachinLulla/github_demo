@@ -1,14 +1,14 @@
 # add function implemented
 def add(x,y):
-    pass
+    return x+y
 
 # subtract fn implemented
 def sub(x,y):
-    pass
+    return x - y        #subtract implemented
 
 # multiply fn implemented
 def mul(x,y):
-    pass
+    return  x*y     # change in RR 
 
 #divide fn implemented
 def div(x,y):
